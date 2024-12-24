@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\red_y\\OneDrive\\Desktop\\C# ders\\C# ders\\girispanel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8157A3-06B1-41EC-B963-D872551608E6}|Genel durum takip\\Anasayfa.csproj|C:\\Users\\red_y\\OneDrive\\Desktop\\C# ders\\C# ders\\girispanel\\genel durum takip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D8157A3-06B1-41EC-B963-D872551608E6}|Genel durum takip\\Anasayfa.csproj|solutionrelative:genel durum takip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA17237-1FB1-4374-8802-3757D78D978A}|\u00D6deme ve bilgi i\u015Flemleri\\\u00D6deme ve bilgi i\u015Flemleri.csproj|c:\\users\\red_y\\onedrive\\desktop\\c# ders\\c# ders\\girispanel\\\u00F6deme ve bilgi i\u015Flemleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFA17237-1FB1-4374-8802-3757D78D978A}|\u00D6deme ve bilgi i\u015Flemleri\\\u00D6deme ve bilgi i\u015Flemleri.csproj|solutionrelative:\u00F6deme ve bilgi i\u015Flemleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA17237-1FB1-4374-8802-3757D78D978A}|\u00D6deme ve bilgi i\u015Flemleri\\\u00D6deme ve bilgi i\u015Flemleri.csproj|c:\\users\\red_y\\onedrive\\desktop\\c# ders\\c# ders\\girispanel\\\u00F6deme ve bilgi i\u015Flemleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA17237-1FB1-4374-8802-3757D78D978A}|\u00D6deme ve bilgi i\u015Flemleri\\\u00D6deme ve bilgi i\u015Flemleri.csproj|solutionrelative:\u00F6deme ve bilgi i\u015Flemleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B41B56C-DB05-4B31-8A41-D20F6C9F49CB}|M\u00FC\u015Fteri Bilgileri\\M\u00FC\u015Fteri Bilgileri.csproj|C:\\Users\\red_y\\OneDrive\\Desktop\\C# ders\\C# ders\\girispanel\\m\u00FC\u015Fteri bilgileri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B41B56C-DB05-4B31-8A41-D20F6C9F49CB}|M\u00FC\u015Fteri Bilgileri\\M\u00FC\u015Fteri Bilgileri.csproj|solutionrelative:m\u00FC\u015Fteri bilgileri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B41B56C-DB05-4B31-8A41-D20F6C9F49CB}|M\u00FC\u015Fteri Bilgileri\\M\u00FC\u015Fteri Bilgileri.csproj|c:\\users\\red_y\\onedrive\\desktop\\c# ders\\c# ders\\girispanel\\m\u00FC\u015Fteri bilgileri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B41B56C-DB05-4B31-8A41-D20F6C9F49CB}|M\u00FC\u015Fteri Bilgileri\\M\u00FC\u015Fteri Bilgileri.csproj|solutionrelative:m\u00FC\u015Fteri bilgileri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B354C7-4B97-488C-8462-B8731DA8CCF2}|Cihaz kay\u0131t\\Cihaz kay\u0131t.csproj|C:\\Users\\red_y\\OneDrive\\Desktop\\C# ders\\C# ders\\girispanel\\cihaz kay\u0131t\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27B354C7-4B97-488C-8462-B8731DA8CCF2}|Cihaz kay\u0131t\\Cihaz kay\u0131t.csproj|solutionrelative:cihaz kay\u0131t\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\red_y\\OneDrive\\Desktop\\C# ders\\C# ders\\girispanel\\\u00D6deme ve bilgi i\u015Flemleri\\Program.cs",
+              "RelativeDocumentMoniker": "\u00D6deme ve bilgi i\u015Flemleri\\Program.cs",
+              "ToolTip": "C:\\Users\\red_y\\OneDrive\\Desktop\\C# ders\\C# ders\\girispanel\\\u00D6deme ve bilgi i\u015Flemleri\\Program.cs",
+              "RelativeToolTip": "\u00D6deme ve bilgi i\u015Flemleri\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:54:07.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\red_y\\OneDrive\\Desktop\\C# ders\\C# ders\\girispanel\\M\u00FC\u015Fteri Bilgileri\\Program.cs",
+              "RelativeDocumentMoniker": "M\u00FC\u015Fteri Bilgileri\\Program.cs",
+              "ToolTip": "C:\\Users\\red_y\\OneDrive\\Desktop\\C# ders\\C# ders\\girispanel\\M\u00FC\u015Fteri Bilgileri\\Program.cs",
+              "RelativeToolTip": "M\u00FC\u015Fteri Bilgileri\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:54:00.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\red_y\\OneDrive\\Desktop\\C# ders\\C# ders\\girispanel\\\u00D6deme ve bilgi i\u015Flemleri\\Form1.cs",
+              "RelativeDocumentMoniker": "\u00D6deme ve bilgi i\u015Flemleri\\Form1.cs",
+              "ToolTip": "C:\\Users\\red_y\\OneDrive\\Desktop\\C# ders\\C# ders\\girispanel\\\u00D6deme ve bilgi i\u015Flemleri\\Form1.cs [Design]",
+              "RelativeToolTip": "\u00D6deme ve bilgi i\u015Flemleri\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:50:23.062Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\red_y\\OneDrive\\Desktop\\C# ders\\C# ders\\girispanel\\Genel durum takip\\Form1.cs",
+              "RelativeDocumentMoniker": "Genel durum takip\\Form1.cs",
+              "ToolTip": "C:\\Users\\red_y\\OneDrive\\Desktop\\C# ders\\C# ders\\girispanel\\Genel durum takip\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Genel durum takip\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:50:59.658Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\red_y\\OneDrive\\Desktop\\C# ders\\C# ders\\girispanel\\Cihaz kay\u0131t\\Form1.cs",
+              "RelativeDocumentMoniker": "Cihaz kay\u0131t\\Form1.cs",
+              "ToolTip": "C:\\Users\\red_y\\OneDrive\\Desktop\\C# ders\\C# ders\\girispanel\\Cihaz kay\u0131t\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Cihaz kay\u0131t\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:50:36.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\red_y\\OneDrive\\Desktop\\C# ders\\C# ders\\girispanel\\M\u00FC\u015Fteri Bilgileri\\Form1.cs",
+              "RelativeDocumentMoniker": "M\u00FC\u015Fteri Bilgileri\\Form1.cs",
+              "ToolTip": "C:\\Users\\red_y\\OneDrive\\Desktop\\C# ders\\C# ders\\girispanel\\M\u00FC\u015Fteri Bilgileri\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "M\u00FC\u015Fteri Bilgileri\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:50:31.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

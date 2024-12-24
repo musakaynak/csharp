@@ -1,0 +1,44 @@
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\bin\Debug\net8.0-windows\girispanel.exe
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\bin\Debug\net8.0-windows\girispanel.deps.json
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\bin\Debug\net8.0-windows\girispanel.runtimeconfig.json
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\bin\Debug\net8.0-windows\girispanel.dll
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\bin\Debug\net8.0-windows\girispanel.pdb
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.Form1.resources
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.AssemblyInfo.cs
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.dll
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\refint\girispanel.dll
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.pdb
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.genruntimeconfig.cache
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\ref\girispanel.dll
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.Properties.Resources.resources
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.frm_yoneticigiris.resources
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.frm_kullanicigiris.resources
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\bin\Debug\net8.0-windows\girispanel.dll.config
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.frm_yoneticisifreguncelle.resources
+C:\Users\MSI\Desktop\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.frm_kullanicihesapolustur.resources
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\bin\Debug\net8.0-windows\girispanel.exe
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\bin\Debug\net8.0-windows\girispanel.dll.config
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\bin\Debug\net8.0-windows\girispanel.deps.json
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\bin\Debug\net8.0-windows\girispanel.runtimeconfig.json
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\bin\Debug\net8.0-windows\girispanel.dll
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\bin\Debug\net8.0-windows\girispanel.pdb
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.Form1.resources
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.frm_kullanicigiris.resources
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.frm_kullanicihesapolustur.resources
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.frm_yoneticigiris.resources
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.frm_yoneticisifreguncelle.resources
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.Properties.Resources.resources
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.csproj.GenerateResource.cache
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.AssemblyInfoInputs.cache
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.AssemblyInfo.cs
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.csproj.CoreCompileInputs.cache
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.dll
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\refint\girispanel.dll
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.pdb
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\girispanel.genruntimeconfig.cache
+C:\Users\red_y\OneDrive\Desktop\C# ders\C# ders\girispanel\girispanel\obj\Debug\net8.0-windows\ref\girispanel.dll

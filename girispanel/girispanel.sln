@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "girispanel", "girispanel\girispanel.csproj", "{55A5D1FC-ADE6-43A7-82EF-36BA6F8E57C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0EA404E5-2573-46A1-8CF9-9793136FF4F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anasayfa", "Genel durum takip\Anasayfa.csproj", "{1D8157A3-06B1-41EC-B963-D872551608E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ödeme ve bilgi işlemleri", "Ödeme ve bilgi işlemleri\Ödeme ve bilgi işlemleri.csproj", "{FFA17237-1FB1-4374-8802-3757D78D978A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Müşteri Bilgileri", "Müşteri Bilgileri\Müşteri Bilgileri.csproj", "{0B41B56C-DB05-4B31-8A41-D20F6C9F49CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cihaz kayıt", "Cihaz kayıt\Cihaz kayıt.csproj", "{27B354C7-4B97-488C-8462-B8731DA8CCF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55A5D1FC-ADE6-43A7-82EF-36BA6F8E57C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A5D1FC-ADE6-43A7-82EF-36BA6F8E57C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A5D1FC-ADE6-43A7-82EF-36BA6F8E57C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A5D1FC-ADE6-43A7-82EF-36BA6F8E57C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D8157A3-06B1-41EC-B963-D872551608E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8157A3-06B1-41EC-B963-D872551608E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8157A3-06B1-41EC-B963-D872551608E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8157A3-06B1-41EC-B963-D872551608E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA17237-1FB1-4374-8802-3757D78D978A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA17237-1FB1-4374-8802-3757D78D978A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA17237-1FB1-4374-8802-3757D78D978A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA17237-1FB1-4374-8802-3757D78D978A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B41B56C-DB05-4B31-8A41-D20F6C9F49CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B41B56C-DB05-4B31-8A41-D20F6C9F49CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B41B56C-DB05-4B31-8A41-D20F6C9F49CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B41B56C-DB05-4B31-8A41-D20F6C9F49CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B354C7-4B97-488C-8462-B8731DA8CCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B354C7-4B97-488C-8462-B8731DA8CCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B354C7-4B97-488C-8462-B8731DA8CCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B354C7-4B97-488C-8462-B8731DA8CCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
